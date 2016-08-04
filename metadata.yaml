@@ -1,0 +1,33 @@
+_repo: On-Our-Selection_3677
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rudd, Steele
+    aliases:
+    - Davis, A. H. (Arthur Hoey)
+    - Davis, Arthur Hoey
+    birthdate: 1868
+    deathdate: 1935
+    gutenberg_agent_id: '1261'
+    url: http://www.gutenberg.org/2009/agents/1261
+    wikipedia: http://en.wikipedia.org/wiki/Steele_Rudd
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3677'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rural families -- Fiction'
+- !lcsh 'Farm life -- Fiction'
+- !lcsh 'Australia -- Social life and customs -- Fiction'
+- !lcsh 'Humorous stories, Australian'
+- !lcsh 'Australia -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: On Our Selection
+url: http://www.gutenberg.org/ebooks/3677
