@@ -1,5 +1,8 @@
 _repo: On-Our-Selection_3677
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rudd, Steele
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1261
     wikipedia: http://en.wikipedia.org/wiki/Steele_Rudd
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3677#On-Our-Selection
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2003-01-01'
 gutenberg_type: Text
